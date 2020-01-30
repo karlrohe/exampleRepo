@@ -1,2 +1,2 @@
 # exampleRepo
-this is an in class example
+this is an in-class example
